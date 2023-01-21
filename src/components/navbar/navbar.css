@@ -109,3 +109,26 @@
     }
 }
 
+@media screen and (max-width: 700px){
+    .gpt3_navbar{
+        padding: 2rem 4rem;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .gpt3_navbar{
+        padding: 2rem
+    }
+     
+    .gpt3_navbar-sign{
+        display: none
+    }
+
+    .gpt3_navbar-menu_container{
+        top: 20px;
+    }
+
+    .gpt3_navbar-menu_container-links-sign{
+        display: block;
+    }
+}
