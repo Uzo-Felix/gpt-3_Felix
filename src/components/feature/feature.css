@@ -14,13 +14,13 @@
     margin-right: 2rem;
 }
 
-.gpt3__features-container__feature h1{
+.gpt3__features-container__feature-title h1{
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 18px;
     line-height: 24px;
     letter-spacing: -0.04em;
-    color: #ffffff
+    color: #fff;
 }
 
 .gpt3__features-container__feature-title div{
